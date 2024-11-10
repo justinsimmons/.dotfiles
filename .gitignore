@@ -1,0 +1,6 @@
+# Ignore all files, we will whitelist the files to include individually.
+*
+
+# Individual files to whitelist:
+!.gitignore
+
