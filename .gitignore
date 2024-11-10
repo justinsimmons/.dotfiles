@@ -4,3 +4,6 @@
 # Individual files to whitelist:
 !.gitignore
 
+## Tmux configuration.
+!.tmux.conf
+
