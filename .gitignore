@@ -3,6 +3,7 @@
 
 # Individual files to whitelist:
 !.gitignore
+!README.md
 
 ## Tmux configuration.
 !.tmux.conf
