@@ -1,5 +1,5 @@
 # Ignore all files, we will whitelist the files to include individually.
-*
+/*
 
 # Individual files to whitelist:
 !.gitignore
@@ -7,4 +7,10 @@
 
 ## Tmux configuration.
 !.tmux.conf
+
+## Raspberry Pi Imager.
+!/.config/
+/.config/*
+!/.config/Raspberry\ Pi/
+#!/.config/Raspberry\ Pi/Imager.conf
 
