@@ -8,6 +8,9 @@
 ## Tmux configuration.
 !.tmux.conf
 
+## Vim Config
+!.vimrc
+
 ## Raspberry Pi Imager.
 !/.config/
 /.config/*
